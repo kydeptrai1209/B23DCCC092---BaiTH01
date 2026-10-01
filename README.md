@@ -5,7 +5,7 @@
 > **Sinh viên thực hiện:** Phạm Xuân Kỳ  
 > **Mã sinh viên:** B23DCCC092  
 > **Lớp / Khóa:** D23 - Công nghệ Thông tin  
-> **Repository GitHub:** [https://github.com/kydeptrai1209/B23DCCC092---BaiTH01](https://github.com/kydeptrai1209/B23DCCC092---BaiTH01)
+> **Repository GitHub:** [https://github.com/kydeptrai1209/B23DCCC092-BaiTH01](https://github.com/kydeptrai1209/B23DCCC092-BaiTH01)
 
 ---
 
@@ -90,7 +90,7 @@ Trang web cá nhân (Portfolio) được xây dựng với mục tiêu giới th
 ## 📁 4. Cấu Trúc Thư Mục Dự Án
 
 ```
-B23DCCC092---BaiTH01/
+B23DCCC092-BaiTH01/
 │
 ├── index.html                  # Trang chủ HTML ngữ nghĩa hoàn chỉnh
 ├── README.md                   # Báo cáo chi tiết bài thực hành
@@ -118,7 +118,7 @@ B23DCCC092---BaiTH01/
 1. **Cách 1: Mở trực tiếp trên trình duyệt**
    - Tải về hoặc clone repository về máy tính:
      ```bash
-     git clone https://github.com/kydeptrai1209/B23DCCC092---BaiTH01.git
+     git clone https://github.com/kydeptrai1209/B23DCCC092-BaiTH01.git
      ```
    - Nhấp đúp chuột vào file `index.html` để mở trực tiếp trên Google Chrome, Microsoft Edge, Firefox,...
 
